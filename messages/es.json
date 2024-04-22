@@ -1,0 +1,10 @@
+{
+    "Index": {
+      "title": "Hola mundo!",
+      "docs" : "Documentacion",
+      "docsDesc" : "Encuentre información detallada sobre las características y la API de Next.js."
+    },
+    "NotFoundPage": {
+      "title" : "No funka"
+    }
+  }
